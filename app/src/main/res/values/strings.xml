@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile Streaming Studio</string>
+    <string name="broadcast_notification_channel">Broadcast session</string>
+    <string name="broadcast_notification_description">Controls for active streaming, recording and screen capture</string>
+</resources>
