@@ -1,0 +1,26 @@
+# Gradle and Android build output
+.gradle/
+**/build/
+local.properties
+.cxx/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Signing and local secrets
+*.keystore
+*.jks
+keystore.properties
+
+# OS and generated diagnostics
+.DS_Store
+Thumbs.db
+*.log
+/tools/.work/
+
+# Generated APK/AAB bundles; retain the explicitly verified debug deliverable.
+*.apk
+*.aab
+!artifacts/MobileStreamingStudio-0.1.0-debug.apk
